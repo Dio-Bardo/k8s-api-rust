@@ -22,3 +22,5 @@ api desplegada en kurbenetes mediante minikube
 - 6: para verificar si estan corriendo bien todo solamente usa el comando kubectl get all para ver que todo este bien.
 - 7: ya para finalizar solamente copia tu ip o nombre del hosts seguido del path que definistes en el ingress ejemplo:(api.rpenaserrano.com/pizzas) para poder entrar y vizulizar tu api en el navegador y en caso de 
      querer agregar,actualizar,etc solamente usa postman.
+  
+  ![LCaptura1](https://github.com/Dio-Bardo/k8s-api-rust/blob/main/Capturapostman.JPG)
