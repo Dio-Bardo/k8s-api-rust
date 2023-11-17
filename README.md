@@ -3,7 +3,7 @@ api desplegada en kurbenetes mediante minikube
 - Despliega 3 pods de tu aplicacion
 - Se debe de mantener la integridad de los datos
 - El acceso a la APi debe de ser por el dominio api.[primera letra del nobre][apellido].com
-Sube tu liga de flipgrid con la demo de tu programa
+- Sube tu liga de flipgrid con la demo de tu programa
     Demo:
           Mostrar los pods, despliegues y servicios ejecutados en k8s.
           Mostrar el accceso via IP (externa del servicio) al API REST
